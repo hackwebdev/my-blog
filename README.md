@@ -32,4 +32,15 @@ from Ghost blog > Integrations > + Add custom integration
     Go to general
         click make site private
 
+Disqus.com
+Install disqus on my site
+Subscribe to the basic plan
+
+Upload to Vercel
+$ npm i -g vercel
+to Access:
+    $ vercel
+    $ vc
+to login:
+    $ vc login
 ```

@@ -17,7 +17,7 @@ async function getPosts() {
   ).then((res) => res.json());
 
   // const titles = res.posts.map((post) => post.title);
-  console.log(res);
+  // console.log(res);
   // console.log(titles);
 
   const posts = res.posts;
