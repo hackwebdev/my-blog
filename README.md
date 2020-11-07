@@ -10,4 +10,13 @@ $ npm run dev
 
 Convert all css to scss
 $ npm install sass --save-dev
+
+Heroku
+https://elements.heroku.com/buttons/snathjr/ghost-on-heroku
+Create app
+
+Ghost CMS
+
+
+
 ```
